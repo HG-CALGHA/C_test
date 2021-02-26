@@ -43,7 +43,6 @@ void game() {
 			break;
 		};
 		DisplayBoard(show, ROW, COL);
-		DisplayBoard(mine, ROW, COL);
 	}
 
 };
